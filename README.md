@@ -4,6 +4,8 @@ This is a Streamlit-based web app that uses OpenAI's GPT model to convert plain 
 
 ---
 
+![App Screenshot](screenshot_sql.png)
+
 ## 🚀 Features
 
 - 💬 Converts natural language into SQL queries
